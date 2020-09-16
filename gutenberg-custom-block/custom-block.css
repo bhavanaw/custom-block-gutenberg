@@ -1,0 +1,19 @@
+/* block.css */
+
+.custom-block{
+    border: 1px LightSkyBlue solid;
+    padding: 10px 15px;
+    margin: 30px;
+    color: #ffffff;
+    background-color:#4da6ff;
+}
+
+
+.custom-block-output{
+    border: 1px #800000 solid;
+    padding: 10px 15px;
+    margin: 30px;
+    color:#800000;
+    background-color:#ffcccc;
+}
+
